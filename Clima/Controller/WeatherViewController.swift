@@ -34,8 +34,6 @@ class WeatherViewController: UIViewController, UITextFieldDelegate {
         return true
     }
     
-    //api key: be5aac5c351f04ee7687dc355ba045f7
-    
     
     
     //metodo para testar condicoes
