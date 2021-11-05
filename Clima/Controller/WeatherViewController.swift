@@ -23,7 +23,7 @@ class WeatherViewController: UIViewController, UITextFieldDelegate {
     }
 
     @IBAction func searchPressed(_ sender: UIButton) {
-        print(searchTextField.text!)
+        
         //fecha o teclado quando termina a digitacao:
         searchTextField.endEditing(true)
     }
